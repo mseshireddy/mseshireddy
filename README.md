@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Seshireddy Mulukuri 👋
 
-<!--
-**mseshireddy/mseshireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Power BI Developer | Azure Data Engineer**
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+- **Data Engineering:** Azure Data Factory, Azure Data bricks, Python, PySpark, Delta Lake, Microsoft Fabric, SQL
+- **Business Intelligence:** Power BI (Desktop & Service), DAX, Power Query, Dimensional Data Modeling, RLS
+- **Core Strengths:** End-to-end data pipelines, star schema design, query optimization, and interactive dashboards
+- ** Portfolio/LinkedIn:** www.linkedin.com/in/seshireddy-mulukuri-120066223   Mail:seshireddy.mulukuri123@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Focus
+- Building scalable Lakehouse architectures on Azure & Fabric
+- Performance optimization for complex SQL queries and DAX measures
+
+- ## projects(pinned below)
+  1. Insurance US Mortgage Loans Client: Cenlar
+  2. Retail                      Client: Reliance
+  3. Health                      Client: AIG
+  4. Insurance(APAC)             Client: Asurion
